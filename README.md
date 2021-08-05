@@ -1,1 +1,4 @@
-# pytorch_deep_learning
+# Deep Learning Model
+
+## CNN
+ - ReXNet
